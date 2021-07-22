@@ -1,4 +1,3 @@
-import Center from '../src/components/Center'
 import { ChakraProvider, Box } from '@chakra-ui/react'
 
 export const decorators = [
